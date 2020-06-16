@@ -1,4 +1,4 @@
-baseURL = "https://majors.github.io"
+baseURL = "http://majors.github.io/"
 title   = "Little Richard's whisper"
 languageCode = "en-us"
 theme = "hello-friend-ng"
